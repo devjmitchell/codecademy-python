@@ -16,4 +16,4 @@ def reverse(text):
 
 print reverse('!dlrow olleH')
 
-# Test on local version
+# Test to fix conflict from local version
