@@ -1,5 +1,5 @@
 # Slow way
-def reverse(text):
+def reverse_slow(text):
     new_string = []
     index = len(text)
     while index:
@@ -8,7 +8,7 @@ def reverse(text):
     return ''.join(new_string)
 
 
-print reverse("!dlrow olleH")
+print reverse_slow("!dlrow olleH")
 
 # Better way
 def reverse(text):
