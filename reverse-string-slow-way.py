@@ -15,3 +15,5 @@ def reverse(text):
     return text[::-1]
 
 print reverse('!dlrow olleH')
+
+# Test on local version
