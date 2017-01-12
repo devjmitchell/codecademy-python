@@ -1,3 +1,8 @@
+"""
+This script reverses the specified string.
+There are two versions that do the same thing.
+"""
+
 # Slow way
 def reverse_slow(text):
     new_string = []
