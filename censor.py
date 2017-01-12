@@ -1,3 +1,5 @@
+# This script censors the word you specify from your string and returns the string with asterisks (*) in its place
+
 def censor(text,word):
     list1 = text.split()
     list2 = []
