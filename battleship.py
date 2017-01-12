@@ -1,3 +1,5 @@
+# This is a simple Battleship game
+
 from random import randint
 
 board = []
