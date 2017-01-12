@@ -1,3 +1,5 @@
+# This script removes the vowels from your string
+
 def anti_vowel(text):
     no_vowels = ""
     for letter in text:
