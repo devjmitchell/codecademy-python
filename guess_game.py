@@ -1,3 +1,5 @@
+# This is a simple guessing game
+
 from random import randint
 
 # Generates a number from 1 through 10 inclusive
