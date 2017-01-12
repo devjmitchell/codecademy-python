@@ -1,3 +1,5 @@
+# This script takes your input and checks to see if the number is prime
+
 def is_prime(x):
     if x <= 1:
         return False
