@@ -13,3 +13,9 @@ def censor(text,word):
     return new_phrase
 
 censor("This hack is a hack test of hacks", "hack")
+
+"""
+# Someone gave me tip that the following is a quicker way to do this
+def censor(text, word):
+    return text.replace(word, "*" * len(word))
+"""
